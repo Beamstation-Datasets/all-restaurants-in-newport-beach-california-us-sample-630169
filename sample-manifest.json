@@ -1,12 +1,12 @@
 {
-  "export_job_id": "0c9b5421-783a-4e4a-99a8-d6a9938336bd",
+  "export_job_id": "9eab1b31-38f0-4e64-abc1-c886ea224b72",
   "id_short": 630169,
-  "published_at": "2026-04-14T07:39:01Z",
+  "published_at": "2026-04-19T19:39:13Z",
   "repo_name": "all-restaurants-in-newport-beach-california-us-sample-630169",
   "sample_asset_name": "beamstation_630169_restaurants-us-ca_SAMPLE_DIST.csv",
   "sample_b2_path": "b2-export:BeamStation-ExportFiles/630169/beamstation_630169_restaurants-us-ca_SAMPLE_DIST.csv",
   "sample_records": 31,
-  "sample_sha256": "684a9fcfae585d4035a3a070505542d7813d9385f2738481cb092ebc0a2d2cb0",
-  "sample_size_bytes": 130751,
+  "sample_sha256": "0505c4bb87e58c85986ebe4c5219fe18115e535803dda82c4ac9adfae2e2f1b4",
+  "sample_size_bytes": 128637,
   "total_records": 317
 }
