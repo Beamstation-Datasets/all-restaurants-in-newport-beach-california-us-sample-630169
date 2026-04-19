@@ -6,7 +6,7 @@
   "config_category": "census",
   "config_description": "Market-wide restaurant data for Newport Beach in West Coast. Filtered by the Restaurants category group with verified business profiles, review sentiment, competitive analysis, and contact information. Refreshed weekly.",
   "config_name": "All Restaurants in Newport Beach, California, US",
-  "export_job_id": "0c9b5421-783a-4e4a-99a8-d6a9938336bd",
+  "export_job_id": "9eab1b31-38f0-4e64-abc1-c886ea224b72",
   "github_org": "Beamstation-Datasets",
   "id_short": 630169,
   "location_name": "Newport Beach",
@@ -15,8 +15,8 @@
   "sample_b2_path": "b2-export:BeamStation-ExportFiles/630169/beamstation_630169_restaurants-us-ca_SAMPLE_DIST.csv",
   "sample_pct": 9.78,
   "sample_records": 31,
-  "sample_sha256": "684a9fcfae585d4035a3a070505542d7813d9385f2738481cb092ebc0a2d2cb0",
-  "sample_size_bytes": 130751,
+  "sample_sha256": "0505c4bb87e58c85986ebe4c5219fe18115e535803dda82c4ac9adfae2e2f1b4",
+  "sample_size_bytes": 128637,
   "total_records": 317,
-  "updated_at": "2026-04-09T16:10:14.856934+00:00"
+  "updated_at": "2026-04-16T19:06:55.432039+00:00"
 }
