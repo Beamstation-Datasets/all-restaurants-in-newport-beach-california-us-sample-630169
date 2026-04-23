@@ -1,6 +1,6 @@
 # All Restaurants in Newport Beach, California, US
 
-> Free BeamStation sample export with 31 rows and masked direct-contact fields.
+> Free BeamStation sample export with 30 rows and masked direct-contact fields.
 
 ## Snapshot
 
@@ -9,9 +9,9 @@
 | Dataset ID | `630169` |
 | Location | Newport Beach |
 | Category | Restaurants |
-| Full dataset size | 317 records |
-| Free sample size | 31 records (9.78%) |
-| Last export | 2026-04-16T19:06:55.432039+00:00 |
+| Full dataset size | 301 records |
+| Free sample size | 30 records (9.97%) |
+| Last export | 2026-04-23T14:57:14.294569+00:00 |
 | Download | [Latest release asset](https://github.com/Beamstation-Datasets/all-restaurants-in-newport-beach-california-us-sample-630169/releases/download/sample-latest/beamstation_630169_restaurants-us-ca_SAMPLE_DIST.csv) |
 
 ## What is in this sample
